@@ -4,7 +4,6 @@
 import * as vscode from 'vscode';
 import * as os from 'os';
 import * as utils from './utils';
-import {log} from './log';
 
 // the config class
 export class Config {
